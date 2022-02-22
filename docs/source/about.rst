@@ -4,11 +4,23 @@ About
 About the Product
 
 
-.. image:: /images/ArgeoPortable_logoV3_roundcorner.png
+.. image:: /ArgeoPortable_logoV3_roundcorner.png
   :width: 400
   :alt: Logo
 
 
+.. image:: argeoportable/docs/sources/images/ArgeoPortable_logoV3_roundcorner.png
+  :width: 400
+  :alt: Logo
+
+.. image:: /images/ArgeoPortable_logoV3_roundcorner.png
+  :width: 400
+  :alt: Logo
+  
+  
+.. image:: /images/ArgeoPortable_logoV3_roundcorner.png
+  :width: 400
+  :alt: Logo
 
 <center>![ARGEOPortableLogo](/images/ArgeoPortable_logoV3_roundcorner.png)</center>
 
