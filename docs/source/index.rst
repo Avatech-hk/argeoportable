@@ -19,6 +19,11 @@
    
 Contents
 --------
+.. toctree::
+    :maxdepth: 2
+    :caption: 使用手冊:
+
+   usermanual/index
 
 .. toctree::
     :maxdepth: 2
