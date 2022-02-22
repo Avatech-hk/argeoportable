@@ -23,6 +23,8 @@ Lumache has its documentation hosted on Read the Docs.
 
 
 .. toctree::
+    :maxdepth: 2
+    :caption: Contents:
 
    usermanual/account
    usermanual/myspace
