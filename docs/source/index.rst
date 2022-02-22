@@ -25,6 +25,10 @@ Lumache has its documentation hosted on Read the Docs.
 .. toctree::
 
    usermanual/account
+   usermanual/myspace
+   usermanual/myclass
+   usermanual/sharespace
+   usermanual/control
 
 
 .. toctree::
