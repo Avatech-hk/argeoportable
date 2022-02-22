@@ -58,6 +58,7 @@
   :alt: Alternative text
 
 確認後載入以下畫面代表許可證成功啟動
+
 .. image:: account_images/accountreg8.png
   :width: 600
   :alt: Alternative text
