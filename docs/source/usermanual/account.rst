@@ -4,7 +4,7 @@
 註冊帳戶
 按下［註冊帳號］連結
 
-.. image:: path/filename.png
+.. image:: account_images/accountreg.jpg
   :width: 400
   :alt: Alternative text
 
@@ -15,7 +15,11 @@
 	- 密碼可由英文、數字或符號組成，密碼長度最少為６個字元
 	- 確認密碼：輸入多一次密碼
 
-.. image:: path/filename.png
+.. image:: account_images/accountreg1.jpg
+  :width: 400
+  :alt: Alternative text
+
+.. image:: account_images/accountreg2.jpg
   :width: 400
   :alt: Alternative text
 
