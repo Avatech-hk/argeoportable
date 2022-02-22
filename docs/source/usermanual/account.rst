@@ -2,11 +2,12 @@
 ===================================
 
 註冊帳戶
+-----------------------
 按下［註冊帳號］連結
 
 .. image:: account_images/accountreg.jpg
   :width: 400
-  :alt: Alternative text
+  :alt: 登入畫面
 
 
 註冊帳戶：輸入用戶名稱（日後可更改）、電郵地址、密碼及確認密碼
@@ -16,24 +17,28 @@
 	- 確認密碼：輸入多一次密碼
 
 .. image:: account_images/accountreg1.jpg
-  :width: 400
-  :alt: Alternative text
+  :width: 600
+  :alt: 輸入資料
 
 .. image:: account_images/accountreg2.jpg
-  :width: 400
-  :alt: Alternative text
+  :width: 600
+  :alt: 輸入資料
 
 
 註冊成功後請查閱電郵進行電郵驗證，在電郵中按下［Confirm Your Account Now］
 
-.. image:: path/filename.png
-  :width: 400
+.. image:: account_images/accountreg3.png
+  :width: 600
+  :alt: Alternative text
+
+.. image:: account_images/accountreg4.png
+  :width: 600
   :alt: Alternative text
   
 
 然後返回 ARGEO Portable 應用程式，並按下［我已經進行驗證］
 
-.. image:: path/filename.png
-  :width: 400
+.. image:: account_images/accountreg5.jpg
+  :width: 600
   :alt: Alternative text
 
