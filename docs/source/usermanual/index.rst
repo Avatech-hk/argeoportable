@@ -4,7 +4,6 @@
 .. toctree::
     :maxdepth: 2
     :caption: 使用手冊:
-
    account
    myspace
    myclass

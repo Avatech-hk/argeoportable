@@ -24,33 +24,4 @@ Contents
     :caption: 使用手冊:
 
    usermanual/index
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 帳戶:
-
-   usermanual/account
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 我的空間:
-
-   usermanual/myspace
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 我的班級:
-
-   usermanual/myclass
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 共享空間:
-
-   usermanual/sharespace
-
-.. toctree::
-    :maxdepth: 2
-    :caption: 操作:
-
-   usermanual/control
+   eduresource/index
