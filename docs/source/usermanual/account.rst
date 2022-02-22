@@ -42,3 +42,21 @@
   :width: 600
   :alt: Alternative text
 
+
+啟動教師帳戶
+-----------------------
+當電郵驗證完成後，請選擇帳號類型為教師（Teacher），然後按下一步，並輸入許可證序號。
+	－許可證序號由官方系統進行派發，如未獲得許可證序號，請聯絡我們
+
+
+.. image:: account_images/accountreg6.jpg
+  :width: 600
+  :alt: Alternative text
+
+.. image:: account_images/accountreg7.jpg
+  :width: 600
+  :alt: Alternative text
+
+.. image:: account_images/accountreg8.png
+  :width: 600
+  :alt: Alternative text
