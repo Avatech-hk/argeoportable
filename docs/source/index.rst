@@ -19,23 +19,33 @@
    
 Contents
 --------
-Lumache has its documentation hosted on Read the Docs.
-
 
 .. toctree::
     :maxdepth: 2
-    :caption: Contents:
+    :caption: 帳戶:
 
    usermanual/account
-   usermanual/myspace
-   usermanual/myclass
-   usermanual/sharespace
-   usermanual/control
-
 
 .. toctree::
+    :maxdepth: 2
+    :caption: 我的空間:
 
-   usermanual/account
-   usage
-   api
-   about
+   usermanual/myspace
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 我的班級:
+
+   usermanual/myclass
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 共享空間:
+
+   usermanual/sharespace
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 操作:
+
+   usermanual/control
