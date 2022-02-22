@@ -23,7 +23,7 @@ Lumache has its documentation hosted on Read the Docs.
 
 .. toctree::
 
-   UserManual/account
+   usermanual/account
    usage
    api
    about
