@@ -4,7 +4,7 @@ About
 About the Product
 
 
-.. image:: /ArgeoPortable_logoV3_roundcorner.png
+.. image:: ArgeoPortable_logoV3_roundcorner.png
   :width: 400
   :alt: Logo
 
@@ -13,7 +13,7 @@ About the Product
   :width: 400
   :alt: Logo
 
-.. image:: /images/ArgeoPortable_logoV3_roundcorner.png
+.. image:: images/ArgeoPortable_logoV3_roundcorner.png
   :width: 400
   :alt: Logo
   
