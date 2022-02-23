@@ -1,35 +1,80 @@
 我的空間
 ===================================
 
-註冊帳戶
-按下［註冊帳號］連結
+我的空間功能簡介
 
-.. image:: path/filename.png
+「我的空間」讓用戶建立個人的地形空間，在空間裏您可使用所有編輯功能，包括地形塑造、繪圖工具、標記工具及地圖介面等，而空間會儲存於您的帳戶內。教師帳戶可查看屬於該許可證班級內的學生的「我的空間」，但不能編輯學生的空間。教師或學生帳戶是不能查看另一教師的「我的空間」，即使帳戶屬於同一許可證下。學生帳戶必須加入過班級才能使用「我的空間」。
+
+
+
+
+創建我的空間
+-----------------------
+點擊「＋創建空間」按鈕
+
+.. image:: myspace_images/myspace.png
   :width: 400
   :alt: Alternative text
 
 
-註冊帳戶：輸入用戶名稱（日後可更改）、電郵地址、密碼及確認密碼
-	- 用戶名稱可由中文或英文組成
-	- 請輸入一個真實的電郵地址，稍後會用作驗證用途
-	- 密碼可由英文、數字或符號組成，密碼長度最少為６個字元
-	- 確認密碼：輸入多一次密碼
+輸入標題（必填）及內容
 
-.. image:: path/filename.png
+.. image:: myspace_images/myspace1.png
   :width: 400
   :alt: Alternative text
 
 
-註冊成功後請查閱電郵進行電郵驗證，在電郵中按下［Confirm Your Account Now］
+點擊［創建］後便會自動進入空間，由此您可以進行編輯
 
-.. image:: path/filename.png
+.. image:: myspace_images/myspace2.png
   :width: 400
   :alt: Alternative text
-  
 
-然後返回 ARGEO Portable 應用程式，並按下［我已經進行驗證］
 
-.. image:: path/filename.png
+
+
+編輯我的空間（儲存、查看或編輯空間資訊）
+-----------------------
+經過地形編輯後，您可點擊「儲存」按鈕儲存空間。同時您亦可點擊「資訊」按鈕進行查看或編輯空間資訊。
+
+.. image:: myspace_images/myspace3.png
   :width: 400
   :alt: Alternative text
+
+
+儲存空間
+
+.. image:: myspace_images/myspace4.png
+  :width: 400
+  :alt: Alternative text
+
+
+查看或編輯空間資訊
+
+.. image:: myspace_images/myspace5.png
+  :width: 400
+  :alt: Alternative text
+
+
+
+
+退出我的空間
+-----------------------
+點擊右上方［．．．］按鈕打開選單，在選單中按［離開］。
+
+.. image:: myspace_images/myspace6.png
+  :width: 400
+  :alt: Alternative text
+
+
+
+
+移除我的空間
+-----------------------
+點擊［．．．］打開選單，按下［刪除］按鈕
+
+.. image:: myspace_images/myspace7.png
+  :width: 400
+  :alt: Alternative text
+
 
