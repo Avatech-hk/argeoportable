@@ -5,12 +5,19 @@
 
 取得 ARGEO Portable 應用程式
 ===================================
+
+.. image:: images/logo.png
+  :width: 200
+  :alt: ARGEO Portable App Logo
+於 Android Play Store 或 IOS App Store 下載本應用程式。
+
+
+
 下載完成後打開 ARGEO Portable 應用程式
 
-.. image:: path/filename.png
-  :width: 400
-  :alt: Alternative text
-
+.. image:: images/landing.jpg
+  :width: 600
+  :alt: Landing Page
 
 
 .. note::
