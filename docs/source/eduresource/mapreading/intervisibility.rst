@@ -1,7 +1,13 @@
 地圖閱讀技巧 一 互見度
 ===================================
 
+|pic1| hello |pic2|
 
+.. |pic1| image:: intervisibility_images/img1.png
+   :width: 45%
+
+.. |pic2| image:: intervisibility_images/img2.png
+   :width: 45%
 
 
 .. _RST Overview:
