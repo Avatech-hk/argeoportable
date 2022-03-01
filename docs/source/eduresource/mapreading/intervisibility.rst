@@ -1,6 +1,15 @@
 地圖閱讀技巧 一 互見度
 ===================================
 
+
+Embed Youtube
+***********
+.. youtube:: Y5Oa5BhbaMU
+
+
+Inline Photo
+*********
+
 |pic1| hello |pic2|
 
 .. |pic1| image:: intervisibility_images/img1.png
