@@ -21,10 +21,10 @@
 
 
 .. note::
-
-   This project is under active development.
+ 
+   此項目仍正開發當中，如有錯誤，敬請諒解.
    
-Contents
+目錄
 --------
 .. toctree::
     :maxdepth: 2
