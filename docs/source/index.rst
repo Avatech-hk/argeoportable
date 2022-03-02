@@ -30,5 +30,6 @@
     :maxdepth: 2
     :caption: 使用手冊:
 
+   about
    usermanual/index
    eduresource/index
