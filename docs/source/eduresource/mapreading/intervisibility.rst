@@ -1,9 +1,9 @@
 互見度 Intervisibility
 ===================================
-.. |presetterrain| image:: intervisibility_images/pre-set terrain.png
+.. |presetterrain| image:: intervisibility_images/pre_set_terrain.png
    :width: 30
 
-.. |terrain_edit_mode| image:: intervisibility_images/terrain edit mode.png
+.. |terrain_edit_mode| image:: intervisibility_images/terrain_edit_mode.png
    :width: 30
 
 以下示範如何以 ARGEO Portable 教導互見度單元。
