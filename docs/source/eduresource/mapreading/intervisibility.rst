@@ -1,16 +1,10 @@
 互見度 Intervisibility
 ===================================
-<<<<<<< HEAD
-.. |pre-set terrain| image:: intervisibility_images/preset_terrain.png
-   :width: 30
 
-.. |terrain edit mode| image:: intervisibility_images/terrain_edit_mode.png
-=======
-.. |presetterrain| image:: intervisibility_images/pre_set_terrain.png
+.. |preset_terrain| image:: intervisibility_images/preset_terrain.png
    :width: 30
 
 .. |terrain_edit_mode| image:: intervisibility_images/terrain_edit_mode.png
->>>>>>> 46ee08b49cebe145b6460401b6f4482ac11285b2
    :width: 30
 
 
