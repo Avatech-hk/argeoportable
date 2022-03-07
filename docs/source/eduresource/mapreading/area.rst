@@ -43,9 +43,8 @@
 The following demonstration shows the teaching procedures of Area by using ARGEO Portable.
 
 
-計算規則形狀物件的實際面積
-
-Calculate the actual area of regular-shape object.
+**計算規則形狀物件的實際面積**
+**Calculate the actual area of regular-shape object.**
 
 
 a. 選擇一個「預設地形(Preset Terrain) |preset_terrain|」或使用「地形塑造 |terrain_edit_mode|」功能建設一個地形，以下以在「地圖Map B」計算E塘的實際面積為例子。
@@ -95,11 +94,8 @@ e. 計算實際面積。
    Calculate the actual area.
 
 
-
-
-計算不規則形狀物件的實際面積
-
-Calculate the actual area of irregular-shape object.
+**計算不規則形狀物件的實際面積**
+**Calculate the actual area of irregular-shape object.**
 
 
 a. 選擇一個「預設地形(Preset Terrain) |preset_terrain| 」或使用「地形塑造 |terrain_edit_mode|」功能建設一個地形，以下以在「地圖Map B」計算格網方格5286、5287、5386及5387中深啡色山體的部份的實際面積為例子。
