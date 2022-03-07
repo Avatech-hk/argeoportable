@@ -41,6 +41,7 @@ c. 分辨橫切面圖中的兩點是否互見。
   :alt: 登入畫面 
 
 
-下載教學資源
 
+下載教學資源
+***************
 `互見度教學資源 <https://drive.google.com/drive/folders/1Ncdjhf8fz2PozKCnRrmw0W50a5z49CfF?usp=sharing>`_
