@@ -1,4 +1,4 @@
-高度與等高線 Height & Contour line  
+橫切面 Cross-section
 ===================================
 
 .. |preset_terrain| image:: cross-section_images/preset_terrain.png
