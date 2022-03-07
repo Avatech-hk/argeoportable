@@ -1,22 +1,22 @@
 橫切面 Cross-section
 ===================================
 
-.. |preset_terrain| image:: cross-section_images/preset_terrain.png
+.. |preset_terrain| image:: cross_section_images/preset_terrain.png
    :width: 30
 
-.. |terrain_edit_mode| image:: cross-section_images/terrain_edit_mode.png
+.. |terrain_edit_mode| image:: cross_section_images/terrain_edit_mode.png
    :width: 30
 
-.. |mapview| image:: cross-section_images/mapview.png
+.. |mapview| image:: cross_section_images/mapview.png
    :width: 30
 
-.. |get_ruler| image:: cross-section_images/get_ruler.png
+.. |get_ruler| image:: cross_section_images/get_ruler.png
    :width: 30
 
-.. |viewmode| image:: cross-section_images/viewmode.png
+.. |viewmode| image:: cross_section_images/viewmode.png
    :width: 30
 
-.. |cross_section| image:: cross-section_images/cross_section.png
+.. |cross_section| image:: cross_section_images/cross_section.png
    :width: 30
 
 教學指引
@@ -31,7 +31,7 @@ a. 選擇一個「預設地形(Preset Terrain) |preset_terrain|」或使用「�
    
    Select a landform from “Preset Terrain |preset_terrain|” or use “Terrain Modifying |terrain_edit_mode|”function to create a landform. The following example is to draw a cross-section from point A to B in “地圖Map C Preset Terrain”.
 
-.. image:: cross-section_images/cross-section1.png
+.. image:: cross_section_images/cross_section1.png
   :width: 600
   :alt: 登入畫面
 
@@ -40,7 +40,7 @@ b. 使用「地圖介面 |mapview|」。
 
    Apply “Map View |mapview|”.
 
-.. image:: cross-section_images/cross-section2.png
+.. image:: cross_section_images/cross_section2.png
   :width: 600
   :alt: 登入畫面
 
@@ -49,7 +49,7 @@ c. 按「呼喚直尺 |get_ruler|」。
 
    Apply “Get Ruler |get_ruler|”.
 
-.. image:: cross-section_images/cross-section3.png
+.. image:: cross_section_images/cross_section3.png
   :width: 600
   :alt: 登入畫面
 
@@ -58,7 +58,7 @@ d. 放置和調校直尺連接AB兩點。
 
    Place and adjust the ruler on Point A and B.
 
-.. image:: cross-section_images/cross-section4.png
+.. image:: cross_section_images/cross_section4.png
   :width: 600
   :alt: 登入畫面
 
@@ -67,7 +67,7 @@ e. 將AB兩點所穿過的等高線記錄在現實的紙條和直尺上。
 
    Record the height of contour lines across the Point A and B on a piece of paper and ruler in real life.
 
-.. image:: cross-section_images/cross-section5.jpeg
+.. image:: cross_section_images/cross_section5.jpeg
   :width: 600
   :alt: 登入畫面
 
@@ -76,7 +76,7 @@ f. 利用已記錄高度的紙條繪畫橫切面圖。
 
    Draw the cross-section with the paper which records the height.
 
-.. image:: cross-section_images/cross-section6.jpeg
+.. image:: cross_section_images/cross_section6.jpeg
   :width: 600
   :alt: 登入畫面
 
@@ -85,7 +85,7 @@ g. 使用「觀察模式 |viewmode|」。
 
    Apply “View Mode |viewmode|”.
 
-.. image:: cross-section/cross-section7.png
+.. image:: cross_section_images/cross_section7.png
   :width: 600
   :alt: 登入畫面
 
@@ -94,7 +94,7 @@ h. 按「橫切面 |cross_section|」，並使用滑桿標調整橫切面位置�
    
    Select “Cross-section |cross_section|” and use the slider to adjuct and position of cross-section and vertical exaggeration to check the cross-section.
 
-.. image:: cross-section_images/cross-section8.jpeg
+.. image:: cross_section_images/cross_section8.jpeg
   :width: 600
   :alt: 登入畫面 
 
