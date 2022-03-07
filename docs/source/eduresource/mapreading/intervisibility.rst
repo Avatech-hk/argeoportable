@@ -7,6 +7,8 @@
 .. |terrain_edit_mode| image:: intervisibility_images/terrain_edit_mode.png
    :width: 30
 
+教學指引
+*********
 
 以下示範如何以 ARGEO Portable 教導互見度單元。
 
