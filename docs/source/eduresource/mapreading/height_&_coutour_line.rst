@@ -1,10 +1,10 @@
 高度與等高線 Height & Contour line  
 ===================================
 
-.. |preset_terrain| image:: height & contour line_images/preset_terrain.png
+.. |preset_terrain| image:: height_contour_line_images/preset_terrain.png
    :width: 30
 
-.. |terrain_edit_mode| image:: height & contour line_images/terrain_edit_mode.png
+.. |terrain_edit_mode| image:: height_contour_line_images/terrain_edit_mode.png
    :width: 30
 
 
@@ -25,7 +25,7 @@ b. 在「環境調整（Environment Options）|terrain_edit_mode|」中調節「
 
    Adjust the “Vertical Interval” to 40 on the “Environment Options |terrain_edit_mode|”. 
 
-.. image:: height & contour line_images/height & contour line1.png
+.. image:: height_contour_line_images/height_contour_line1.png
   :width: 600
   :alt: 登入畫面
 
@@ -34,7 +34,7 @@ c. 利用已預設的高程點及其他等高線指示，找出 A 點、B 點和
 
    Refer to the information provided on the map. Find the height of point A, B and C.  
 
-.. image:: height & contour line_images/height & contour line2.png
+.. image:: height_contour_line_images/height_contour_line2.png
   :width: 600
   :alt: 登入畫面
 

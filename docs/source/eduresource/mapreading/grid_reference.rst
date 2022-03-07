@@ -1,16 +1,16 @@
 格網座標 Grid Reference 
 ===================================
 
-.. |preset_terrain| image:: grid reference_images/preset_terrain.png
+.. |preset_terrain| image:: grid_reference_images/preset_terrain.png
    :width: 30
 
-.. |mapview| image:: grid reference_images/mapview.png
+.. |mapview| image:: grid_reference_images/mapview.png
    :width: 30
 
-.. |horizontal_ruler| image:: grid reference_images/horizontal_ruler.png
+.. |horizontal_ruler| image:: grid_reference_images/horizontal_ruler.png
    :width: 30
 
-.. |vertical_ruler| image:: grid reference_images/vertical_ruler.png
+.. |vertical_ruler| image:: grid_reference_images/vertical_ruler.png
    :width: 30
 
 教學指引
@@ -30,7 +30,7 @@ b. 使用「地圖介面（Map view）|mapview| 」，可見格網線顯示在�
 
    Apply the “Map view |mapview|”. The grid lines are shown on the map. 
 
-.. image:: grid reference_images/grid reference1.png
+.. image:: grid_reference_images/grid_reference1.png
   :width: 600
   :alt: 登入畫面
 
@@ -54,7 +54,7 @@ e. 將整把直尺放在格網方格 6711 內。先由左至右數格仔，再�
 
    Place the ruler on the grid square. Count the grids from left to right, then from bottom to top (The first grid is 0 and  the last grid is 9). Take the readings to form six-figure grid reference. 
 
-.. image:: grid reference_images/grid reference2.png
+.. image:: grid_reference_images/grid_reference2.png
   :width: 600
   :alt: 登入畫面
 
@@ -65,7 +65,7 @@ f. 按下「水平直尺（Horizontal ruler）|horizontal_ruler| 」按鈕，把
 
    Press the “Horizontal ruler |horizontal_ruler|” button. Place the ruler on the point B and make it parallel to the northings. 
 
-.. image:: grid reference_images/grid reference3.png
+.. image:: grid_reference_images/grid_reference3.png
   :width: 600
   :alt: 登入畫面
 
@@ -79,7 +79,7 @@ h. 按下「垂直直尺（Vertical ruler）|vertical_ruler|」按鈕，把直�
 
    Press the “Vertical ruler |vertical_ruler|” button. Place the ruler on the point B and make it parallel to the eastings.
 
-.. image:: grid reference_images/grid reference4.png
+.. image:: grid_reference_images/grid_reference4.png
   :width: 600
   :alt: 登入畫面
 
@@ -88,7 +88,7 @@ i. 直尺上每 0.5 厘米為一小格，由下至上第一格為 0，最後一�
 
    Each grid equals to 0.5 cm. The first grid is 0 and the last grid is 9. Take the reading of northing. 
 
-.. image:: grid reference_images/grid reference4.png
+.. image:: grid_reference_images/grid reference4.png
   :width: 600
   :alt: 登入畫面
 
