@@ -67,7 +67,7 @@ e. 將AB兩點所穿過的等高線記錄在現實的紙條和直尺上。
 
    Record the height of contour lines across the Point A and B on a piece of paper and ruler in real life.
 
-.. image:: cross_section_images/cross_section5.jpeg
+.. image:: cross_section_images/cross_section5.jpg
   :width: 600
   :alt: 登入畫面
 
@@ -76,7 +76,7 @@ f. 利用已記錄高度的紙條繪畫橫切面圖。
 
    Draw the cross-section with the paper which records the height.
 
-.. image:: cross_section_images/cross_section6.jpeg
+.. image:: cross_section_images/cross_section6.jpg
   :width: 600
   :alt: 登入畫面
 
@@ -94,7 +94,7 @@ h. 按「橫切面 |cross_section|」，並使用滑桿標調整橫切面位置�
    
    Select “Cross-section |cross_section|” and use the slider to adjuct and position of cross-section and vertical exaggeration to check the cross-section.
 
-.. image:: cross_section_images/cross_section8.jpeg
+.. image:: cross_section_images/cross_section8.jpg
   :width: 600
   :alt: 登入畫面 
 
