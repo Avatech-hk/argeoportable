@@ -45,7 +45,7 @@ c. 選擇「觀察模式 |viewmode| 」調校視角以觀察地形。
 
    Use“View Mode |viewmode|”to adjust the camera to observe the relief. 
 
-.. image:: relief_images/viewmode.png
+.. image:: relief_images/relief3.png
   :width: 600
   :alt: 登入畫面
 
