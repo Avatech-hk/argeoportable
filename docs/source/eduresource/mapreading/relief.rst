@@ -23,7 +23,7 @@ The following demonstration shows the teaching procedures of Relief by using  AR
 
 
 
-a. 選擇一個「預設地形（Preset Terrain）|preset_terrain| 」，並選擇想教授的地形，以下以 選擇「山咀與山谷 Spur and valley」為例子。
+a. 選擇一個「預設地形（Preset Terrain）|preset_terrain|」，並選擇想教授的地形，以下以 選擇「山咀與山谷 Spur and valley」為例子。
    
    Select a relief which you want to teach in “Preset Terrain |preset_terrain|”. The following example is “山咀與山谷 Spur and valley”. 
 
