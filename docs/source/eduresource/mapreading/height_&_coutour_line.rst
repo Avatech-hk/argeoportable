@@ -4,7 +4,7 @@
 .. |preset_terrain| image:: height_contour_line_images/preset_terrain.png
    :width: 30
 
-.. |terrain_edit_mode| image:: height_contour_line_images/terrain_edit_mode.png
+.. |environment_options| image:: height_contour_line_images/environment_options.png
    :width: 30
 
 
@@ -21,9 +21,9 @@ a. 在「預設地形（Preset Terrain）|preset_terrain|」中，選擇「高�
    Apply the “Preset terrain |preset_terrain|” function. Select “Height & Contour line”. 
 
 
-b. 在「環境調整（Environment Options）|terrain_edit_mode|」中調節「垂直間距（Vertical Interval）」至 40。 
+b. 在「環境調整（Environment Options）|environment_options|」中調節「垂直間距（Vertical Interval）」至 40。 
 
-   Adjust the “Vertical Interval” to 40 on the “Environment Options |terrain_edit_mode|”. 
+   Adjust the “Vertical Interval” to 40 on the “Environment Options |environment_options|”. 
 
 .. image:: height_contour_line_images/height_contour_line1.png
   :width: 600
