@@ -45,10 +45,10 @@ c. 分辨橫切面圖中的兩點是否互見。
 下載教學資源
 ***************
 教學指引
-`互見度教學資源 <https://drive.google.com/drive/folders/1Ncdjhf8fz2PozKCnRrmw0W50a5z49CfF?usp=sharing>`_
+`按此下載 <https://drive.google.com/file/d/1GWqbKvPYPepz4XyqQM9nFgW_1LeBDaGx/view?usp=sharing>`_
 
 工作紙(中文版)
-`互見度教學資源 <https://drive.google.com/drive/folders/1MnBvbJ7F1HgXOfznDq_XWieaGtEh5fuL?usp=sharing>`_
+`按此下載 <https://drive.google.com/drive/folders/1MnBvbJ7F1HgXOfznDq_XWieaGtEh5fuL?usp=sharing>`_
 
 工作紙(英文版)
-`互見度教學資源 <https://drive.google.com/drive/folders/1Dkf1vqwdYMsz1fRfiZRUftQ6ADoYWxiV?usp=sharing>`_
+`按此下載 <https://drive.google.com/drive/folders/1Dkf1vqwdYMsz1fRfiZRUftQ6ADoYWxiV?usp=sharing>`_
