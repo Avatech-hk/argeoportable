@@ -2,7 +2,7 @@
 ===================================
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :caption: 地圖閱讀技巧
    
     mapreading/intervisibility
