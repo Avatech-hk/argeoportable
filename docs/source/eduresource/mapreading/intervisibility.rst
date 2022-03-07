@@ -49,8 +49,8 @@ c. 分辨橫切面圖中的兩點是否互見。
 教學指引
 `按此下載 <https://drive.google.com/file/d/1GWqbKvPYPepz4XyqQM9nFgW_1LeBDaGx/view?usp=sharing>`_
 
-工作紙(中文版)
+工作紙及答案(中文版)
 `按此下載 <https://drive.google.com/drive/folders/1MnBvbJ7F1HgXOfznDq_XWieaGtEh5fuL?usp=sharing>`_
 
-工作紙(英文版)
+工作紙及答案(英文版)
 `按此下載 <https://drive.google.com/drive/folders/1Dkf1vqwdYMsz1fRfiZRUftQ6ADoYWxiV?usp=sharing>`_
