@@ -32,4 +32,10 @@
 
    about
    usermanual/index
+
+
+.. toctree::
+    :maxdepth: 1
+    :caption: 
+
    eduresource/index
