@@ -37,7 +37,7 @@
 -----------------------
 經過地形編輯後，您可點擊「儲存」按鈕儲存空間。同時您亦可點擊「資訊」按鈕進行查看或編輯空間資訊。
 
-.. image:: myspace_images/myspace3.png
+.. image:: myspace_images/myspace3.jpg
   :width: 400
   :alt: Alternative text
 
@@ -51,7 +51,7 @@
 
 查看或編輯空間資訊
 
-.. image:: myspace_images/myspace5.png
+.. image:: myspace_images/myspace5.jpg
   :width: 400
   :alt: Alternative text
 
