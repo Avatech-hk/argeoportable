@@ -17,13 +17,13 @@
   :width: 200
   :alt: ARGEO Portable App Logo
   
-於 Android Play Store 或 IOS App Store 下載本應用程式。
+1. 於 `Android Play Store`_ 或 `IOS App Store`_ 下載本應用程式。
 
-`Android Play Store <https://play.google.com/store/apps/details?id=com.avatech.argeoportable>`_
+.. _`Android Play Store`: https://play.google.com/store/apps/details?id=com.avatech.argeoportable
 
-`IOS App Store <https://apps.apple.com/hk/app/argeo-portable/id1528658752>`_
+.. _`IOS App Store`: https://apps.apple.com/hk/app/argeo-portable/id1528658752
 
-下載完成後打開 ARGEO Portable 應用程式
+2. 下載完成後打開 ARGEO Portable 應用程式，進入以下的畫面。
 
 .. image:: images/landing.jpg
   :width: 600
