@@ -73,13 +73,14 @@
 .. |environment_options| image:: control_images/environment_options.png
    :width: 30
 
-.. |preset_terrain| image:: grid_reference_images/preset_terrain.png
+.. |preset_terrain| image:: control_images/preset_terrain.png
    :width: 30
 
 
 
 
 介面介紹
+-----------------------
 
 .. image:: control_images/UI.png
   :width: 400
@@ -91,7 +92,7 @@
 功能總覽
 -----------------------
 
-.. image:: control_images/功能總覽.png 
+.. image:: control_images/overall_function.png 
   :width: 400
   :alt: Alternative text
 
@@ -105,7 +106,7 @@
     按左邊工具欄的 |viewmode| 啟動觀察模式，下方的工具操控台將會被收起，用家可以單指調整觀察方位，移動至最佳視角，從不同角度觀察地勢
 
 
-.. image:: control_images/視角操控觀察模式.png
+.. image:: control_images/view_control_mode.png
   :width: 400
   :alt: Alternative text
 
@@ -117,27 +118,27 @@
 -----------------------
 用家可隨時以雙指調整或旋轉觀察方位、放大、縮小以及調整仰角
 
-.. image:: control_images/雙指操控1.png
+.. image:: control_images/finger_control1.png
   :width: 400
   :alt: Alternative text
 
-.. image:: control_images/雙指操控2.png
+.. image:: control_images/finger_control2.png
   :width: 400
   :alt: Alternative text
 
-.. image:: control_images/雙指操控3.png
+.. image:: control_images/finger_control3.png
   :width: 400
   :alt: Alternative text
 
-.. image:: control_images/雙指操控4.png
+.. image:: control_images/finger_control4.png
   :width: 400
   :alt: Alternative text
 
-.. image:: control_images/雙指操控5.png
+.. image:: control_images/finger_control5.png
   :width: 400
   :alt: Alternative text
 
-.. image:: control_images/雙指操控6.png
+.. image:: control_images/finger_control6.png
   :width: 400
   :alt: Alternative text
 
@@ -148,7 +149,7 @@
 -----------------------
 按右邊工具欄的 |topmode| 以調校鏡頭至俯視角度，由正上方清楚俯視整個地形
 
-.. image:: control_images/俯視角度.png
+.. image:: control_images/overlook.png
   :width: 400
   :alt: Alternative text
 
@@ -159,7 +160,7 @@
 -----------------------
 按右邊工具欄的 |sideview| 以返回與進入地形時一樣的預設觀察角度，從則面觀察地形
 
-.. image:: control_images/預設角度.png
+.. image:: control_images/default_angle.jpg
   :width: 400
   :alt: Alternative text
 
@@ -170,7 +171,7 @@
 -----------------------
 按左邊工具欄的 |terrain_edit_mode| 啟動地形塑造，工具操控台將於下方彈出，用家可以單指升高或降低手指接觸位置的地形，塑造不同形狀的地貌
 
-.. image:: control_images/地形塑造.png
+.. image:: control_images/terrain_modifying.png
   :width: 400
   :alt: Alternative text
 
@@ -179,22 +180,22 @@
 
 塑造範圍大小 |brush_size| : 調整塑造範圍的大小，滑桿標越靠右塑造範圍越大
 
-.. image:: control_images/地形塑造大小1.png
+.. image:: control_images/modifying_size1.png
   :width: 400
   :alt: Alternative text
 
-.. image:: control_images/地形塑造大小2.png
+.. image:: control_images/modifying_size2.png
   :width: 400
   :alt: Alternative text
 
 
 塑造強度 |brush_strength| : 調整塑造強度，塑造強度即地形升高或降低之速度，滑桿標越靠右塑造強度越大
 
-.. image:: control_images/地形塑造強弱1.png
+.. image:: control_images/modifying_strength1.png
   :width: 400
   :alt: Alternative text
 
-.. image:: control_images/地形塑造強弱2.png
+.. image:: control_images/modifying_strength2.png
   :width: 400
   :alt: Alternative text
 
@@ -202,11 +203,11 @@
  
 升高/降低 |extrude_up| |reduce| : 選擇升高或降低以決定塑造地形時是升高還是降低地勢
 
-.. image:: control_images/地形塑造高低1.png
+.. image:: control_images/modifying_height1.png
   :width: 400
   :alt: Alternative text
 
-.. image:: control_images/地形塑造高低2.png
+.. image:: control_images/modifying_height2.png
   :width: 400
   :alt: Alternative text
 
@@ -217,7 +218,7 @@
 -----------------------
 按左邊工具欄的 |pen| 啟動繪圖工具，工具操控台將於下方彈出，用家可於地形上繪圖及寫字，以單指劃過地形便會留下筆跡，以此輔助用家解說課堂內容
 
-.. image:: control_images/繪圖工具.png
+.. image:: control_images/drawing_tools.png
   :width: 400
   :alt: Alternative text
 
@@ -238,11 +239,11 @@
 -----------------------
 按左邊工具欄的 |label| 啟動標記工具，工具操控台將於下方彈出，用家可於地形落下標記以標示及描述地勢特點，以單指觸碰地形便可加上標記。新增標記時鍵盤會彈出供用家輸入標記內容，正在選取的標記內容會在工具操控台顯示，點擊其他標記可選取其以作編輯
 
-.. image:: control_images/標記工具1.png
+.. image:: control_images/labelling_tools1.png
   :width: 400
   :alt: Alternative text
 
-.. image:: control_images/標記工具2.png
+.. image:: control_images/labelling_tools2.png
   :width: 400
   :alt: Alternative text
 
@@ -263,7 +264,7 @@
 -----------------------
 按左邊工具欄的 |mapview| 啟動地圖介面，下方的工具操控台將會被收起，開啟此後會將地形變為一張加上格網方格地圖，右邊的工具欄將變做測量工具欄，可於此啟用不同的測量工具，使用直尺及量角器進行測量和計算，以教授地圖閱讀的格網座標及比例計算等
 
-.. image:: control_images/地圖介面.png
+.. image:: control_images/mapviewlayout.png
   :width: 400
   :alt: Alternative text
 
@@ -301,7 +302,7 @@
 -----------------------
 按右邊工具欄的 |cross_section| 以顯示橫切面地形
 
-.. image:: control_images/橫切面.png
+.. image:: control_images/cross_section_layout.png
   :width: 400
   :alt: Alternative text
 
@@ -311,28 +312,28 @@
 
 垂直誇大率(V.E.): 調整橫切面圖的垂直誇大率，滑桿標越上誇大率越大
 
-.. image:: control_images/橫切面介面_垂直誇大率.png
+.. image:: control_images/cross_section_ve.png
   :width: 400
   :alt: Alternative text
 
 
 切割方向: 改變橫切面的切割方向，可選擇橫向或縱向
 
-.. image:: control_images/橫切面切割方向.png
+.. image:: control_images/cross_section_direction.png
   :width: 400
   :alt: Alternative text
 
 
 觀察角度 |flip| : 改變觀察橫切面的視角，可選擇由正面或背面觀察
 
-.. image:: control_images/橫切面觀察角度.png
+.. image:: control_images/cross_section_view.png
   :width: 400
   :alt: Alternative text
 
 
 橫切面位置: 調整橫切面的切割位置
 
-.. image:: control_images/橫切面位置.png
+.. image:: control_images/cross_section_position.png
   :width: 400
   :alt: Alternative text
 
@@ -343,7 +344,7 @@
 -----------------------
 按右邊工具欄的 |environment_options| 以更改地形的環境特點
 
-.. image:: control_images/環境調整.png
+.. image:: control_images/environment_adjust.png
   :width: 400
   :alt: Alternative text
 
@@ -351,7 +352,7 @@
 可調整的環境選項:
 地貌顏色: 選擇自然地貌或黑白色的地形
 
-.. image:: control_images/環境調整地貌顏色.png
+.. image:: control_images/environment_adjust_color.png
   :width: 400
   :alt: Alternative text
 
@@ -359,37 +360,37 @@
 
 水平線: 調校海平面高度，最小值為-5，最大值為5，用作模擬大陸或離島的地勢，調整海及陸地面積，滑桿標越靠右海平面越高
 
-.. image:: control_images/水平線1.png
+.. image:: control_images/horizontal_line1.png
   :width: 400
   :alt: Alternative text
 
-.. image:: control_images/水平線2.png
+.. image:: control_images/horizontal_line2.png
   :width: 400
   :alt: Alternative text
 
 
 垂直間距: 調校垂直間距，最小值為10，最大值為80，滑桿標越靠右垂直間距越大
 
-.. image:: control_images/垂直間距1.png
+.. image:: control_images/Vertical_Interval1.png
   :width: 400
   :alt: Alternative text
 
-.. image:: control_images/垂直間距2.png
+.. image:: control_images/Vertical_Interval2.png
   :width: 400
   :alt: Alternative text
 
 
 地形質感: 選擇地理模式檢視方便理解課堂內容或以真實模式檢視地形以營造真實感
 
-.. image:: control_images/地形質感1.png
+.. image:: control_images/texture1.png
   :width: 400
   :alt: Alternative text 
 
-.. image:: control_images/地形質感2.png
+.. image:: control_images/texture2.png
   :width: 400
   :alt: Alternative text 
 
-.. image:: control_images/地形質感3.png
+.. image:: control_images/texture3.png
   :width: 400
   :alt: Alternative text 
 
