@@ -4,7 +4,7 @@
 .. |viewmode| image:: control_images/viewmode.png
    :width: 30
 
-.. |topmode| image:: control_images/topmode.png
+.. |topview| image:: control_images/topview.png
    :width: 30
 
 .. |sideview| image:: control_images/sideview.png
@@ -147,7 +147,7 @@
 
 俯視角度(Top View):
 -----------------------
-按右邊工具欄的 |topmode| 以調校鏡頭至俯視角度，由正上方清楚俯視整個地形
+按右邊工具欄的 |topview| 以調校鏡頭至俯視角度，由正上方清楚俯視整個地形
 
 .. image:: control_images/overlook.png
   :width: 400
