@@ -28,13 +28,13 @@
 .. |pen| image:: control_images/pen.png
    :width: 30
 
-.. |eraser| image:: control_images/eraser.png 
+.. |eraser| image:: control_images/eraser.png
    :width: 30
 
-.. |baseline_undo_white| image:: control_images/baseline_undo_white.png
+.. |undo_white| image:: control_images/undo_white.png
    :width: 30
 
-.. |baseline_redo_white| image:: control_images/baseline_redo_white.png
+.. |redo_white| image:: control_images/redo_white.png
    :width: 30
 
 .. |clear| image:: control_images/clear.png
@@ -228,8 +228,8 @@
 顏色: 選擇畫筆的顏色，有紅藍黃綠白五款顏色
 
 橡皮擦 |eraser| : 使用橡皮擦，以單指劃過的筆跡將會被清除。若要退出橡皮擦狀態，再次點選此以返回畫筆狀態
-上一步 |baseline_undo_white| : 撤銷上一步動作，包括畫圖及橡皮擦清除的動作 (注意: 不包括清除全部之動作)
-下一步 |baseline_undo_white||baseline_redo_white| : 重做下一步動作，包括畫圖及橡皮擦清除的動作 (注意: 不包括清除全部之動作)
+上一步 |undo_white| : 撤銷上一步動作，包括畫圖及橡皮擦清除的動作 (注意: 不包括清除全部之動作)
+下一步 |redo_white| : 重做下一步動作，包括畫圖及橡皮擦清除的動作 (注意: 不包括清除全部之動作)
 清除全部 |clear| : 清除地形上所有的筆跡及畫筆紀錄，此動作不能被撤銷
 
 
