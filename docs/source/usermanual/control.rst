@@ -428,7 +428,7 @@ a. 選擇一個「預設地形（Preset Terrain）|preset_terrain|」，並選�
   :width: 400
   :alt: Alternative text
 
-b. 使用「俯視角度 |topmode|」功能觀察地形的等高線。
+b. 使用「俯視角度 |topview|」功能觀察地形的等高線。
 
 .. image:: control_images/relief2.png
   :width: 400
