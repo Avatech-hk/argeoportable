@@ -406,13 +406,13 @@
 a. 在「預設地形（Preset Terrain）|preset_terrain|」中，選擇「高度與等高線」。
 b. 在「環境調整（Environment Options）|environment_options|）」中調節「垂直間距（Vertical Interval）」至40。
 
-.. image:: control_images/heightcontourline1.png
+.. image:: control_images/heightcontourline1.jpg
   :width: 400
   :alt: Alternative text
 
 c. 利用已預設的高程點及其他等高線指示，找出A點、B點和C點的高度。
 
-.. image:: control_images/heightcontourline2.png
+.. image:: control_images/heightcontourline2.jpg
   :width: 400
   :alt: Alternative text
 
@@ -430,25 +430,25 @@ a. 選擇一個「預設地形（Preset Terrain）|preset_terrain|」，並選�
 
 b. 使用「俯視角度 |topview|」功能觀察地形的等高線。
 
-.. image:: control_images/relief2.png
+.. image:: control_images/relief2.jpg
   :width: 400
   :alt: Alternative text
 
 c. 選擇「觀察模式 |viewmode|」調校視角以觀察地形。
 
-.. image:: control_images/relief3.png
+.. image:: control_images/relief3.jpg
   :width: 400
   :alt: Alternative text
 
 d. 選擇「橫切面 |cross_section|」功能，並以滑標調校橫切面至合適的位置。
 
-.. image:: control_images/relief4.png
+.. image:: control_images/relief4.jpg
   :width: 400
   :alt: Alternative text
 
 e. 可調校垂直誇大率觀察橫切面圖。
 
-.. image:: control_images/relief5.png
+.. image:: control_images/relief5.jpg
   :width: 400
   :alt: Alternative text
 
