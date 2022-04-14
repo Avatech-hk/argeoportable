@@ -403,8 +403,8 @@
 
 以下示範為如何以ARGEO Portable教授高度與等高線單元
 
-a. 在「預設地形 (Preset Terrain) |presetterrain|」中，選擇「高度與等高線」。
-b. 在「環境調整 (Environment Options) |environmentoptions|」中調節「垂直間距（Vertical Interval）」至40。
+a. 在「預設地形 (Preset Terrain) |presetterrain| 」中，選擇「高度與等高線」。
+b. 在「環境調整 (Environment Options) |environmentoptions| 」中調節「垂直間距（Vertical Interval）」至40。
 
 .. image:: control_images/heightcontourline1.jpg
   :width: 400
@@ -422,7 +422,7 @@ d. 老師可以再塑造更多地形教導學生。
 課題二: 地形 Relief
 以下示範如何以 ARGEO Portable 教導地形單元。
 
-a. 選擇一個「預設地形（Preset Terrain）|presetterrain|」，並選擇想教授的地形。
+a. 選擇一個「預設地形（Preset Terrain）|presetterrain| 」，並選擇想教授的地形。
 
 .. image:: control_images/relief1.png
   :width: 400
