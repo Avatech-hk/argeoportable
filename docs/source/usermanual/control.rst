@@ -459,30 +459,30 @@ e. 可調校垂直誇大率觀察橫切面圖。
 -----------------------
 Zoom
 - 開始分享畫面:
-  1. 在下方(Android)或右上角(iOS)點選分享，選擇熒幕(Android)/螢幕(iOS) (注意: 用家需要是主持人或被主持人允許才可分享畫面)
+1. 在下方(Android)或右上角(iOS)點選分享，選擇熒幕(Android)/螢幕(iOS) (注意: 用家需要是主持人或被主持人允許才可分享畫面)
 
 .. image:: control_images/zoom1.png
   :width: 400
   :alt: Alternative text
 
-  2. 按立即開始(Android)或開始直播(iOS)確認分享
+2. 按立即開始(Android)或開始直播(iOS)確認分享
 
 .. image:: control_images/zoom2.png
   :width: 400
   :alt: Alternative text
 
-  3. 成功分享用家裝置的畫面 (注意: 開始分享後所有參與者都能看見畫面的所有資訊，包括通知及其他程式的畫面 若有不希望公開的資訊請預先更改設定或避免在分享畫面期間打開檢視內容) (Android用家注意: 開始分享後會跳到裝置主畫面)
+3. 成功分享用家裝置的畫面 (注意: 開始分享後所有參與者都能看見畫面的所有資訊，包括通知及其他程式的畫面 若有不希望公開的資訊請預先更改設定或避免在分享畫面期間打開檢視內容) (Android用家注意: 開始分享後會跳到裝置主畫面)
 
 .. image:: control_images/zoom3.png
   :width: 400
   :alt: Alternative text
 
-  4. 按主目錄鍵離開Zoom但不要關閉應用程式，開啟ARGEO Portable 的程式便可開始教學
+4. 按主目錄鍵離開Zoom但不要關閉應用程式，開啟ARGEO Portable 的程式便可開始教學
 
 - 停止分享畫面:
-        教學結束後退出ARGEO Portable
-        Android: 返回Zoom點選下方的停止直播/左下方的工具欄停止分享
-        iOS: 返回Zoom點選畫面中心的停止直播/在控制中心結束直播
+  教學結束後退出ARGEO Portable
+  Android: 返回Zoom點選下方的停止直播/左下方的工具欄停止分享
+  iOS: 返回Zoom點選畫面中心的停止直播/在控制中心結束直播
 
 .. image:: control_images/zoom4.png
   :width: 400
@@ -491,30 +491,30 @@ Zoom
 
 Google Meet
 - 開始分享畫面:
-    1. 按右上角選項，點選顯示畫面(Android)或分享螢幕畫面(iOS)
+1. 按右上角選項，點選顯示畫面(Android)或分享螢幕畫面(iOS)
 
 .. image:: control_images/googlemeet1.png
   :width: 400
   :alt: Alternative text
 
-    2. 按開始顯示再按立即開始(Android)/開始直播(iOS)確認分享
+2. 按開始顯示再按立即開始(Android)/開始直播(iOS)確認分享
 
 .. image:: control_images/googlemeet2.png
   :width: 400
   :alt: Alternative text
 
-    3. 成功分享用家裝置的畫面 (注意: 開始分享後所有參與者都能看見畫面的所有資訊，包括通知及其他程式的畫面 若有不希望公開的資訊請預先更改設定或避免在分享畫面期間打開檢視內容)
+3. 成功分享用家裝置的畫面 (注意: 開始分享後所有參與者都能看見畫面的所有資訊，包括通知及其他程式的畫面 若有不希望公開的資訊請預先更改設定或避免在分享畫面期間打開檢視內容)
 
 .. image:: control_images/googlemeet3.png
   :width: 400
   :alt: Alternative text
 
-    4. 按主目錄鍵離開Meet但不要關閉程式，開啟ARGEO Portable 的程式便可開始教學
+4. 按主目錄鍵離開Meet但不要關閉程式，開啟ARGEO Portable 的程式便可開始教學
 
 - 停止分享畫面:
-        教學結束後退出ARGEO Portable
-        Android: 返回Meet點選畫面中心的停止顯示
-        iOS: 返回Meet點選畫面中心的停止直播/在控制中心結束直播
+  教學結束後退出ARGEO Portable
+  Android: 返回Meet點選畫面中心的停止顯示
+  iOS: 返回Meet點選畫面中心的停止直播/在控制中心結束直播
 
 .. image:: control_images/googlemeet4.png
   :width: 400
@@ -524,36 +524,36 @@ Google Meet
 Microsoft Teams
 
 - 開始分享畫面:
-     1. 按下方的選項，點選分享
+1. 按下方的選項，點選分享
 
 .. image:: control_images/microsoftteams1.png
   :width: 400
   :alt: Alternative text
 
-     2. 選擇分享螢幕畫面
+2. 選擇分享螢幕畫面
 
 .. image:: control_images/microsoftteams2.png
   :width: 400
   :alt: Alternative text
 
-     3. 按立即開始(Android)或開始直播(iOS)確認分享
+3. 按立即開始(Android)或開始直播(iOS)確認分享
 
 .. image:: control_images/microsoftteams3.png
   :width: 400
   :alt: Alternative text
 
-     4. 成功分享用家裝置的畫面 (注意: 開始分享後所有參與者都能看見畫面的所有資訊，包括通知及其他程式的畫面 若有不希望公開的資訊請預先更改設定或避免在分享畫面期間打開檢視內容)
+4. 成功分享用家裝置的畫面 (注意: 開始分享後所有參與者都能看見畫面的所有資訊，包括通知及其他程式的畫面 若有不希望公開的資訊請預先更改設定或避免在分享畫面期間打開檢視內容)
 
 .. image:: control_images/microsoftteams4.png
   :width: 400
   :alt: Alternative text
 
-     5. 按主目錄鍵離開Teams但不要關閉程式，開啟ARGEO Portable 的程式便可開始教學
+5. 按主目錄鍵離開Teams但不要關閉程式，開啟ARGEO Portable 的程式便可開始教學
 
 - 停止分享畫面:
-        教學結束後退出ARGEO Portable
-        Android: 返回Teams點選下方的停止簡報
-        iOS: 返回Teams點選畫面中心的停止直播/在控制中心結束直播
+  教學結束後退出ARGEO Portable
+  Android: 返回Teams點選下方的停止簡報
+  iOS: 返回Teams點選畫面中心的停止直播/在控制中心結束直播
 
 .. image:: control_images/microsoftteams5.png
   :width: 400
