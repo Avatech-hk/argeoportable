@@ -422,7 +422,7 @@ d. 老師可以再塑造更多地形教導學生。
 課題二: 地形 Relief
 以下示範如何以 ARGEO Portable 教導地形單元。
 
-a. 選擇一個「預設地形（Preset Terrain）|preset_terrain|」，並選擇想教授的地形。
+a. 選擇一個「預設地形（Preset Terrain）|presetterrain|」，並選擇想教授的地形。
 
 .. image:: control_images/relief1.png
   :width: 400
