@@ -342,7 +342,7 @@
 
 環境調整(Environment Options)
 -----------------------
-按右邊工具欄的 |environment_options| 以更改地形的環境特點
+按右邊工具欄的 |environmentoptions| 以更改地形的環境特點
 
 .. image:: control_images/environment_adjust.png
   :width: 400
