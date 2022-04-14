@@ -70,10 +70,10 @@
 .. |flip| image:: control_images/flip.png
    :width: 30
 
-.. |environment_options| image:: control_images/environment_options.png
+.. |environmentoptions| image:: control_images/environmentoptions.png
    :width: 30
 
-.. |preset_terrain| image:: control_images/preset_terrain.png
+.. |presetterrain| image:: control_images/presetterrain.png
    :width: 30
 
 
@@ -403,8 +403,8 @@
 
 以下示範為如何以ARGEO Portable教授高度與等高線單元
 
-a. 在「預設地形（Preset Terrain）|preset_terrain|」中，選擇「高度與等高線」。
-b. 在「環境調整（Environment Options）|environment_options|）」中調節「垂直間距（Vertical Interval）」至40。
+a. 在「預設地形 (Preset Terrain) |presetterrain|」中，選擇「高度與等高線」。
+b. 在「環境調整 (Environment Options) |environmentoptions|」中調節「垂直間距（Vertical Interval）」至40。
 
 .. image:: control_images/heightcontourline1.jpg
   :width: 400
