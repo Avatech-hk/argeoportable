@@ -19,55 +19,43 @@
 
 以下示範如何以 ARGEO Portable 教導地形單元。 
 
-The following demonstration shows the teaching procedures of Relief by using  ARGEO Portable.  
-
 
 
 a. 選擇一個「預設地形（Preset Terrain）|preset_terrain|」，並選擇想教授的地形，以下以 選擇「山咀與山谷 Spur and valley」為例子。
    
-   Select a relief which you want to teach in “Preset Terrain |preset_terrain|”. The following example is “山咀與山谷 Spur and valley”. 
-
 .. image:: relief_images/relief1.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 b. 使用「俯視角度 |topview|」功能觀察地形的等高線。 
 
-   Use“Top View |topview| ”function to observe the contour line of the relief.
-
 .. image:: relief_images/relief2.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 c. 選擇「觀察模式 |viewmode| 」調校視角以觀察地形。
 
-   Use“View Mode |viewmode|”to adjust the camera to observe the relief. 
-
 .. image:: relief_images/relief3.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 d. 選擇「橫切面 |cross_section| 」功能，並以滑桿標調校橫切面至合適的位置。
    
-   Use “Cross-section |cross_section|”function and adjust the slider to the suitable position.
-
 .. image:: relief_images/relief4.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 
 
 調校垂直誇大率觀察橫切面圖。 
 
-Adjuct the vertical exaggeration to observe the cross-section.
-
 .. image:: relief_images/relief5.png
   :width: 600
-  :alt: 登入畫面 
+  :alt: Alternative text 
 
 
 

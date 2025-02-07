@@ -7,7 +7,7 @@
 
 .. image:: account_images/accountreg.jpg
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 註冊帳戶：輸入用戶名稱（日後可更改）、電郵地址、密碼及確認密碼

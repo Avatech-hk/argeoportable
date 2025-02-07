@@ -40,38 +40,30 @@
 
 以下示範如何以 ARGEO Portable 教導面積單元。
 
-The following demonstration shows the teaching procedures of Area by using ARGEO Portable.
-
 
 **計算規則形狀物件的實際面積**
 **Calculate the actual area of regular-shape object.**
 
 
 a. 選擇一個「預設地形(Preset Terrain) |preset_terrain|」或使用「地形塑造 |terrain_edit_mode|」功能建設一個地形，以下以在「地圖Map B」計算E塘的實際面積為例子。
-   
-   Select a“Preset Terrain |preset_terrain|”or use“Terrain Modifying |terrain_edit_mode|”function to form a terrain. The following example is to calculate the actual area of Pond E in “地圖Map B Preset Terrain”
 
 .. image:: area_images/area1.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 b. 使用「地圖介面 |mapview|」。
 
-   Apply “Map View |mapview|".
-
 .. image:: area_images/area2.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 c. 按「呼喚直尺」|get_ruler|。
 
-   Apply “Get Ruler |get_ruler|”.
-
 .. image:: area_images/area3.png
   :width: 600
-  :alt: 登入畫面 
+  :alt: Alternative text 
 
 
 d. 放置和調校直尺以量度圖案的長和闊。
@@ -80,18 +72,12 @@ d. 放置和調校直尺以量度圖案的長和闊。
 
    *可按「放大」和「縮小」以調整地圖介面，減小誤差。
 
-   * “Horizontal Ruler |horizontal_ruler|” and “Vertical Ruler |vertical_ruler|” can be applied to adjust the ruler to horizontal or vertical. 
-
-   * “Enlarge” and “Reduce” can be applied to adjust the “Map view” to reduce the measurement error. 
-
 .. image:: area_images/area4.png
   :width: 600
-  :alt: 登入畫面 
+  :alt: Alternative text 
 
 
 e. 計算實際面積。
-
-   Calculate the actual area.
 
 
 **計算不規則形狀物件的實際面積**
@@ -100,20 +86,16 @@ e. 計算實際面積。
 
 a. 選擇一個「預設地形(Preset Terrain) |preset_terrain| 」或使用「地形塑造 |terrain_edit_mode|」功能建設一個地形，以下以在「地圖Map B」計算格網方格5286、5287、5386及5387中深啡色山體的部份的實際面積為例子。
 
-   Select a “Preset Terrain |preset_terrain|” or use “Terrain Modifying |terrain_edit_mode|” function to form a terrain. The following example is to calculate the actual area of hill, which in dark brown colour in grid squares 5286, 5287, 5386, and 5387.
-
 .. image:: area_images/area5.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 b. 使用「地圖介面 |mapview|」。
 
-   Apply “Map View |mapview|".
-
 .. image:: area_images/area6.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 c. 選擇「繪圖工具 |pen|」，並勾畫出想量度的面積。
@@ -122,87 +104,61 @@ c. 選擇「繪圖工具 |pen|」，並勾畫出想量度的面積。
 
 *可按「放大」和「縮小」以調整地圖介面，減小誤差。
 
-Select “Drawing Tools |pen|” and sketch the outline of the area which needs to be measured. 
-
-*White colour is NOT suggested to use in sketching as it will be difficult to calculate the area in the following steps.
-
-*“Enlarge” and “Reduce” can be applied to adjust the “Map view” to reduce the error. 
-
 .. image:: area_images/area7.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 d. 使用「觀察模式 |viewmode|」。
 
-   Apply "View Mode |viewmode|".
-
 .. image:: area_images/area8.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 e. 選擇「環境調整 |environment_options|」，並在地貌顏色選擇黑白色 |black_white|。
 
-   Apply “Environment Option |environment_options|” and select the terrain material in black and white (missing signal logo). 
-
 .. image:: area_images/area9.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 f.  使用「地圖介面 |mapview|」。
 
-   Apply “Map View |mapview|".
-
 .. image:: area_images/area10.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 g. 按「呼喚直尺 |ruler|」。
 
-   Select “Call Ruler |get_ruler|”.
-
 .. image:: area_images/area11.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 h. 把直尺上的方格覆蓋在物件上。
 
 *應把直尺調校至取得最多的完整方格。
 
-Cover the grids on the object. 
-
-*Try to get as more complete squares as possible, when adjusting the ruler.
-
 .. image:: area_images/area12.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 i. 數點完整方格及不完整方格的數目。
 
 *紅色數字為完整方格、藍色數字為不完整方格。
 
-Count the number of complete and incomplete squares. 
-
-*The red numbers are the complete squares, while the blue numbers are the incomplete squares.
-
 .. image:: area_images/area13.png
   :width: 600
-  :alt: 登入畫面
+  :alt: Alternative text
 
 
 j. 計算總格數。
 
-   Calculate the total number of squares.
-
 
 k. 計算實際面積。
-
-   Calculate the actual area.
 
 
 
